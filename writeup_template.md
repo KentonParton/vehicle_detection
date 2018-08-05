@@ -100,7 +100,7 @@ To optimize performance, a `spatial_size` of (16, 16) was used to reduce the num
 ### Video Implementation
 
 #### 1. Link to vehicle object-detection video.
-Here's a [link to my video result](./project_video.mp4)
+Here's a [link to my video result](./test_videos_output/project_video.mp4)
 
 
 #### 2. How were false positives and overlapping bounding boxes accustomed for?
